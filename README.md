@@ -30,20 +30,16 @@ The licensor cannot revoke these freedoms provided the license terms are followe
 When using images from this repository, please provide attribution.
 
 ### Preferred Citation
-Generalovic T. Black Soldier Fly Image Collection. Version 1.0. 2026.
+Pitt, A., & Generalovic, TN. (2026). Black Soldier Fly Lifestages. Zenodo. https://doi.org/10.5281/zenodo.20690662
 
 ### Example Attribution
-
-Image credit: Tom Generalovic, Black Soldier Fly Image Collection (CC BY 4.0).
+Image credit: Alex Pitt & Tomas N Generalovic, Black Soldier Fly Image Collection (CC BY 4.0).
 
 ### Example Figure Caption
-
-Photograph of *Hermetia illucens* larva. Image adapted from Generalovic (2026) under a CC BY 4.0 license.
+Photograph of *Hermetia illucens* larva. Image adapted from Pitt & Generalovic (2026) under a CC BY 4.0 license.
 
 ## Scientific Name
-
 Species: *Hermetia illucens* (Linnaeus, 1758)
-
 Common name: Black Soldier Fly (BSF)
 
 ## Citation
